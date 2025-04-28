@@ -7,7 +7,7 @@ This is a single-page static web application built with HTML, CSS, and JavaScrip
 ## Usage
 
 - [Main Application](https://notint.zeo.lol/): The primary web interface where users can upload and process their images.
-- [Application Description (Markdown)](https://notint.zeo.lol/index.html.md): A markdown version describing the tool's function and usage (Note: This file may not exist yet, but is recommended by the llms.txt spec).
+- [Application Description (Markdown)](https://notint.zeo.lol/index.html.md): A markdown version describing the tool's function and usage.
 
 ## Key Features
 
